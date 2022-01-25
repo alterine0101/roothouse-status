@@ -16,13 +16,13 @@ sites:
   - name: Nix
     url: https://nix.reinhart1010.id
   - name: roothouse-0
-    url: http://192.168.10.10
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
   - name: roothouse-1
-    url: http://192.168.10.11
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
   - name: roothouse-2
-    url: http://192.168.10.12
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2
   - name: roothouse-3
-    url: http://192.168.10.13
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
