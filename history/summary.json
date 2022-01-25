@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1592,
-    "timeDay": 1592,
-    "timeWeek": 1592,
-    "timeMonth": 1592,
-    "timeYear": 1592,
+    "time": 4536,
+    "timeDay": 4536,
+    "timeWeek": 4536,
+    "timeMonth": 4536,
+    "timeYear": 4536,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3505,
-    "timeDay": 3505,
-    "timeWeek": 3505,
-    "timeMonth": 3505,
-    "timeYear": 3505,
+    "time": 2713,
+    "timeDay": 2713,
+    "timeWeek": 2713,
+    "timeMonth": 2713,
+    "timeYear": 2713,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 485,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 424,
+    "timeDay": 424,
+    "timeWeek": 424,
+    "timeMonth": 424,
+    "timeYear": 424,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 361,
-    "timeWeek": 361,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 379,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 319,
-    "timeDay": 319,
-    "timeWeek": 319,
-    "timeMonth": 319,
-    "timeYear": 319,
+    "time": 310,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   },
   {
@@ -113,18 +113,18 @@
     "icon": "https://favicons.githubusercontent.com/192.168.10.10",
     "slug": "roothouse-0",
     "status": "down",
-    "uptime": "22.02%",
-    "uptimeDay": "22.02%",
-    "uptimeWeek": "22.02%",
-    "uptimeMonth": "22.02%",
-    "uptimeYear": "22.02%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 2
+      "2022-01-25": 118
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/192.168.10.11",
     "slug": "roothouse-1",
     "status": "down",
-    "uptime": "27.87%",
-    "uptimeDay": "27.87%",
-    "uptimeWeek": "27.87%",
-    "uptimeMonth": "27.87%",
-    "uptimeYear": "27.87%",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 1
+      "2022-01-25": 117
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/192.168.10.12",
     "slug": "roothouse-2",
     "status": "down",
-    "uptime": "39.72%",
-    "uptimeDay": "39.72%",
-    "uptimeWeek": "39.72%",
-    "uptimeMonth": "39.72%",
-    "uptimeYear": "39.72%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 1
+      "2022-01-25": 117
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/192.168.10.13",
     "slug": "roothouse-3",
     "status": "down",
-    "uptime": "64.76%",
-    "uptimeDay": "64.76%",
-    "uptimeWeek": "64.76%",
-    "uptimeMonth": "64.76%",
-    "uptimeYear": "64.76%",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-25": 0
+      "2022-01-25": 116
     }
   }
 ]
