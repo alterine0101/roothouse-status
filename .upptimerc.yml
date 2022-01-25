@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: alterine0101 # Your GitHub organization or username, where this repository lives
+repo: roothouse-status # The name of this repository
 
 sites:
   - name: Homepage (reinhart1010.id)
@@ -29,10 +29,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.reinhart1010.id
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f331.svg
   name: Reinhart Previano K.
   introTitle: "Server status for **reinhart1010.id**, the **roothouse**, and beyond."
-  introMessage: By the way, did you know that we also have [a dedicated website](https://binusmayadown.reinhart1010.id) to check if BINUS University's main servers are down?.
+  introMessage: By the way, did you know that we also have [a dedicated website](https://binusmayadown.reinhart1010.id) to check if BINUS University's main servers are down, too?
   navbar:
     - title: Status
       href: /
