@@ -39,6 +39,15 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
+
 runner: [self-hosted, can-fetch]
 user-agent: roothouse/1.0 (+https://bots.reinhart1010.id)
 
