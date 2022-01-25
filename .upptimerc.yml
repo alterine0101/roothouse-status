@@ -48,9 +48,6 @@ workflowSchedule:
   updates: "0 3 * * *"
   uptime: "*/10 * * * *"
 
-runner:
-  - self-hosted
-  - can-fetch
 user-agent: roothouse/1.0 (+https://bots.reinhart1010.id)
 
 # Upptime also supports notifications, assigning issues, and more
