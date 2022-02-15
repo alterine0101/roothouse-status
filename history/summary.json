@@ -133,7 +133,7 @@
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2022-02-15": 146,
+      "2022-02-15": 171,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -162,15 +162,15 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-1",
-    "status": "up",
-    "uptime": "81.10%",
-    "uptimeDay": "74.12%",
-    "uptimeWeek": "82.83%",
-    "uptimeMonth": "81.10%",
-    "uptimeYear": "81.10%",
+    "status": "down",
+    "uptime": "81.22%",
+    "uptimeDay": "74.10%",
+    "uptimeWeek": "82.82%",
+    "uptimeMonth": "81.22%",
+    "uptimeYear": "81.22%",
     "time": 242,
-    "timeDay": 233,
-    "timeWeek": 224,
+    "timeDay": 234,
+    "timeWeek": 225,
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
       "2022-01-29": 161,
       "2022-01-28": 574,
       "2022-01-27": 293,
-      "2022-01-26": 174
+      "2022-01-26": 141
     }
   },
   {
@@ -199,12 +199,12 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-2",
-    "status": "up",
-    "uptime": "85.53%",
-    "uptimeDay": "74.13%",
+    "status": "down",
+    "uptime": "85.61%",
+    "uptimeDay": "74.11%",
     "uptimeWeek": "82.83%",
-    "uptimeMonth": "85.53%",
-    "uptimeYear": "85.53%",
+    "uptimeMonth": "85.61%",
+    "uptimeYear": "85.61%",
     "time": 241,
     "timeDay": 250,
     "timeWeek": 233,
@@ -227,8 +227,7 @@
       "2022-01-30": 235,
       "2022-01-29": 161,
       "2022-01-28": 392,
-      "2022-01-27": 293,
-      "2022-01-26": 20
+      "2022-01-27": 293
     }
   },
   {
@@ -236,12 +235,12 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-3",
-    "status": "up",
-    "uptime": "85.34%",
-    "uptimeDay": "74.14%",
-    "uptimeWeek": "82.84%",
-    "uptimeMonth": "85.34%",
-    "uptimeYear": "85.34%",
+    "status": "down",
+    "uptime": "85.42%",
+    "uptimeDay": "74.12%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "85.42%",
+    "uptimeYear": "85.42%",
     "time": 247,
     "timeDay": 244,
     "timeWeek": 227,
@@ -263,8 +262,7 @@
       "2022-01-30": 287,
       "2022-01-29": 161,
       "2022-01-28": 392,
-      "2022-01-27": 293,
-      "2022-01-26": 19
+      "2022-01-27": 293
     }
   }
 ]
