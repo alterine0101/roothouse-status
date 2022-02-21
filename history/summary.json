@@ -133,7 +133,7 @@
     "timeMonth": 1052,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2022-02-21": 820,
+      "2022-02-21": 857,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
@@ -168,14 +168,14 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-1",
-    "status": "up",
-    "uptime": "86.46%",
-    "uptimeDay": "92.11%",
+    "status": "down",
+    "uptime": "86.60%",
+    "uptimeDay": "92.09%",
     "uptimeWeek": "91.75%",
-    "uptimeMonth": "86.46%",
-    "uptimeYear": "86.46%",
+    "uptimeMonth": "86.60%",
+    "uptimeYear": "86.60%",
     "time": 241,
-    "timeDay": 233,
+    "timeDay": 235,
     "timeWeek": 233,
     "timeMonth": 241,
     "timeYear": 241,
@@ -199,7 +199,7 @@
       "2022-01-31": 251,
       "2022-01-30": 682,
       "2022-01-29": 161,
-      "2022-01-28": 87
+      "2022-01-28": 40
     }
   },
   {
@@ -207,14 +207,14 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-2",
-    "status": "up",
-    "uptime": "89.22%",
-    "uptimeDay": "92.11%",
+    "status": "down",
+    "uptime": "89.50%",
+    "uptimeDay": "92.10%",
     "uptimeWeek": "91.75%",
-    "uptimeMonth": "89.22%",
-    "uptimeYear": "89.22%",
+    "uptimeMonth": "89.50%",
+    "uptimeYear": "89.50%",
     "time": 240,
-    "timeDay": 234,
+    "timeDay": 236,
     "timeWeek": 239,
     "timeMonth": 240,
     "timeYear": 240,
@@ -237,7 +237,7 @@
       "2022-02-01": 426,
       "2022-01-31": 251,
       "2022-01-30": 235,
-      "2022-01-29": 161
+      "2022-01-29": 56
     }
   },
   {
@@ -245,14 +245,14 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-3",
-    "status": "up",
-    "uptime": "89.08%",
-    "uptimeDay": "92.12%",
+    "status": "down",
+    "uptime": "89.35%",
+    "uptimeDay": "92.10%",
     "uptimeWeek": "91.76%",
-    "uptimeMonth": "89.08%",
-    "uptimeYear": "89.08%",
+    "uptimeMonth": "89.35%",
+    "uptimeYear": "89.35%",
     "time": 246,
-    "timeDay": 233,
+    "timeDay": 236,
     "timeWeek": 243,
     "timeMonth": 246,
     "timeYear": 246,
@@ -274,7 +274,7 @@
       "2022-02-01": 426,
       "2022-01-31": 251,
       "2022-01-30": 287,
-      "2022-01-29": 161
+      "2022-01-29": 56
     }
   }
 ]
