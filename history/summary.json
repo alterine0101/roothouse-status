@@ -133,7 +133,7 @@
     "timeMonth": 1044,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2022-02-22": 24,
+      "2022-02-22": 26,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
@@ -169,18 +169,19 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-1",
-    "status": "up",
-    "uptime": "86.70%",
-    "uptimeDay": "86.57%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "86.70%",
-    "uptimeYear": "86.70%",
+    "status": "down",
+    "uptime": "86.96%",
+    "uptimeDay": "86.56%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "86.96%",
+    "uptimeYear": "86.96%",
     "time": 240,
     "timeDay": 228,
     "timeWeek": 232,
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2022-02-22": 0,
       "2022-02-21": 194,
       "2022-02-20": 155,
       "2022-02-19": 35,
@@ -199,7 +200,7 @@
       "2022-02-01": 410,
       "2022-01-31": 251,
       "2022-01-30": 682,
-      "2022-01-29": 161
+      "2022-01-29": 56
     }
   },
   {
@@ -207,18 +208,19 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-2",
-    "status": "up",
-    "uptime": "89.60%",
-    "uptimeDay": "86.58%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "89.60%",
-    "uptimeYear": "89.60%",
+    "status": "down",
+    "uptime": "89.68%",
+    "uptimeDay": "86.56%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "89.68%",
+    "uptimeYear": "89.68%",
     "time": 240,
     "timeDay": 229,
     "timeWeek": 232,
     "timeMonth": 240,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2022-02-22": 0,
       "2022-02-21": 194,
       "2022-02-20": 155,
       "2022-02-19": 35,
@@ -236,7 +238,7 @@
       "2022-02-02": 205,
       "2022-02-01": 426,
       "2022-01-31": 251,
-      "2022-01-30": 235
+      "2022-01-30": 204
     }
   },
   {
@@ -244,18 +246,19 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3",
     "icon": "https://favicons.githubusercontent.com/rhstatus-proxy.alterine0101.id",
     "slug": "roothouse-3",
-    "status": "up",
-    "uptime": "89.46%",
-    "uptimeDay": "86.58%",
-    "uptimeWeek": "91.98%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "89.46%",
+    "status": "down",
+    "uptime": "89.59%",
+    "uptimeDay": "86.57%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "89.59%",
     "time": 245,
     "timeDay": 229,
     "timeWeek": 238,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
+      "2022-02-22": 0,
       "2022-02-21": 194,
       "2022-02-20": 155,
       "2022-02-19": 35,
@@ -272,7 +275,7 @@
       "2022-02-02": 176,
       "2022-02-01": 426,
       "2022-01-31": 251,
-      "2022-01-30": 287
+      "2022-01-30": 235
     }
   }
 ]
