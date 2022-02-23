@@ -1,7 +1,7 @@
 url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
-status: up
-code: 200
-responseTime: 258
-lastUpdated: 2022-02-23T09:29:02.045Z
+status: down
+code: 404
+responseTime: 264
+lastUpdated: 2022-02-23T10:23:09.394Z
 startTime: Tue Jan 25 2022 08:08:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
