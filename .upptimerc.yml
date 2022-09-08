@@ -13,8 +13,12 @@ sites:
     url: https://reinhart1010.github.io/foodnavigator
   - name: HAM Homepage
     url: https://ham.reinhart1010.id
+  - name: Jackpot GBK
+    url: https://reinhart1010.github.io/jackpotgbk
   - name: Nix
     url: https://nix.reinhart1010.id
+  - name: Reinhart Maps
+    url: https://maps.reinhart1010.id
   - name: roothouse-0
     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
   - name: roothouse-1
@@ -29,8 +33,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.reinhart1010.id
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/googlefonts/noto-emoji/main/svg/emoji_u1f331.svg
-  name: Reinhart Previano K.
+  logoUrl: https://reinhart1010.id/wp-content/uploads/2022/06/cropped-IMG_20220618_124332_108-1.png
+  name: Shift
   introTitle: "Server status for **reinhart1010.id**, the **roothouse**, and beyond."
   introMessage: By the way, did you know that we also have [a dedicated website](https://binusmayadown.reinhart1010.id) to check if BINUS University's main servers are down, too?
   navbar:
