@@ -9,6 +9,10 @@ sites:
     url: https://binustoday.reinhart1010.id
   - name: BINUSMAYA Down
     url: https://binusmayadown.reinhart1010.id
+  - name: Caps Landing Page
+    url: https://caps.reinhart1010.id
+  - name: Doa Prophetic Landing Page
+    url: https://doaprophetic.reinhart1010.id
   - name: Food Navigator
     url: https://reinhart1010.github.io/foodnavigator
   - name: HAM Homepage
@@ -19,6 +23,8 @@ sites:
     url: https://nix.reinhart1010.id
   - name: Reinhart Maps
     url: https://maps.reinhart1010.id
+  - name: Webmail Service
+    url: https://webmail.reinhart1010.id
   - name: roothouse-0
     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
   - name: roothouse-1
