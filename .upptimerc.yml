@@ -13,8 +13,16 @@ sites:
     url: https://caps.reinhart1010.id
   - name: Doa Prophetic Landing Page
     url: https://doaprophetic.reinhart1010.id
+  - name: File Sharing Service (files.reinhart1010.id)
+    url: https://files.reinhart1010.id
   - name: Food Navigator
     url: https://reinhart1010.github.io/foodnavigator
+  - name: GMS MSJ Admin Bot (@caps_gms_msj_bot)
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=gms-msj-telegram-bot
+  - name: GMS MSJ Admin Bot Documentation
+    url: https://gms-msj-telegram-bot.reinhart1010.id/
+  - name: Hackapedia
+    url: https://hackapedia.reinhart1010.id
   - name: HAM Homepage
     url: https://ham.reinhart1010.id
   - name: Jackpot GBK
@@ -23,16 +31,18 @@ sites:
     url: https://nix.reinhart1010.id
   - name: Reinhart Maps
     url: https://maps.reinhart1010.id
+  - name: Shortlink Service (share.reinhart1010.id)
+    url: https://share.reinhart1010.id
   - name: Webmail Service
     url: https://webmail.reinhart1010.id
-  - name: roothouse-0
-    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
-  - name: roothouse-1
-    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
-  - name: roothouse-2
-    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2
-  - name: roothouse-3
-    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3
+#   - name: roothouse-0
+#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
+#   - name: roothouse-1
+#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
+#   - name: roothouse-2
+#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2
+#   - name: roothouse-3
+#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
