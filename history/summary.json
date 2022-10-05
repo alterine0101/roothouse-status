@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.reinhart1010.id.ico",
     "slug": "file-sharing-service-files-reinhart1010-id",
     "status": "down",
-    "uptime": "6.11%",
-    "uptimeDay": "6.11%",
-    "uptimeWeek": "6.11%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "6.11%",
+    "uptime": "3.17%",
+    "uptimeDay": "3.17%",
+    "uptimeWeek": "3.17%",
+    "uptimeMonth": "3.17%",
+    "uptimeYear": "3.17%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2022-10-05": 0
+      "2022-10-05": 1
     }
   },
   {
@@ -175,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gms-msj-telegram-bot.reinhart1010.id.ico",
     "slug": "gms-msj-admin-bot-documentation",
     "status": "down",
-    "uptime": "1.99%",
-    "uptimeDay": "1.99%",
-    "uptimeWeek": "1.99%",
-    "uptimeMonth": "1.99%",
-    "uptimeYear": "1.99%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-05": 0
+      "2022-10-05": 1
     }
   },
   {
