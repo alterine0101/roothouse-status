@@ -102,10 +102,10 @@
     "url": "https://caps.reinhart1010.id",
     "icon": "https://icons.duckduckgo.com/ip3/caps.reinhart1010.id.ico",
     "slug": "caps-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -113,16 +113,18 @@
     "timeWeek": 263,
     "timeMonth": 277,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-10": 2
+    }
   },
   {
     "name": "Doa Prophetic Landing Page",
     "url": "https://doaprophetic.reinhart1010.id",
     "icon": "https://icons.duckduckgo.com/ip3/doaprophetic.reinhart1010.id.ico",
     "slug": "doa-prophetic-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -131,7 +133,9 @@
     "timeWeek": 253,
     "timeMonth": 285,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-10": 0
+    }
   },
   {
     "name": "File Sharing Service (files.reinhart1010.id)",
@@ -178,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "gms-msj-admin-bot-caps-gms-msj-bot",
     "status": "up",
-    "uptime": "35.85%",
+    "uptime": "36.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.22%",
-    "uptimeYear": "35.85%",
+    "uptimeMonth": "42.17%",
+    "uptimeYear": "36.90%",
     "time": 1194,
     "timeDay": 1022,
     "timeWeek": 954,
