@@ -332,19 +332,19 @@
     "url": "https://maps.reinhart1010.id",
     "icon": "https://icons.duckduckgo.com/ip3/maps.reinhart1010.id.ico",
     "slug": "reinhart-maps",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 184,
-    "timeWeek": 242,
+    "timeDay": 216,
+    "timeWeek": 246,
     "timeMonth": 255,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2022-12-09": 0
+      "2022-12-09": 15
     }
   },
   {
