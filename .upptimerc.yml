@@ -5,6 +5,12 @@ repo: roothouse-status # The name of this repository
 sites:
   - name: Homepage (reinhart1010.id)
     url: https://reinhart1010.id
+  - name: AEP Mobile Beta Announcements
+    url: https://aep-mobile-beta.reinhart1010.id
+  - name: AEP Mobile Staging Server
+    url: https://aep.alterine0101.id/api/get_countries?language=id
+  - name: AEP Mobile User Documentation
+    url: https://aep-userdocs.reinhart1010.id/index-en.html
   - name: BINUSToday
     url: https://binustoday.reinhart1010.id
   - name: BINUSMAYA Down
@@ -15,6 +21,8 @@ sites:
     url: https://caps.reinhart1010.id
   - name: Doa Prophetic Landing Page
     url: https://doaprophetic.reinhart1010.id
+  - name: Fediverse Migration Microsite
+    url: https://fediverse.reinhart1010.id
   - name: File Sharing Service (files.reinhart1010.id)
     url: https://files.reinhart1010.id
   - name: Food Navigator
@@ -27,14 +35,22 @@ sites:
     url: https://hackapedia.reinhart1010.id
   - name: HAM Homepage
     url: https://ham.reinhart1010.id
+  - name: IndieWeb Webring Service
+    url: https://xn--sr8hvo.ws
   - name: Jackpot GBK
     url: https://reinhart1010.github.io/jackpotgbk
   - name: Nix
     url: https://nix.reinhart1010.id
+  - name: PGP Key Microsite
+    url: https://pgp.reinhart1010.id
   - name: Reinhart Maps
     url: https://maps.reinhart1010.id
+  - name: Security Incidents Blog
+    url: https://security-incidents.reinhart1010.id
   - name: Shortlink Service (share.reinhart1010.id)
     url: https://share.reinhart1010.id
+  - name: Teropong Homepage
+    url: https://teropong.reinhart1010.id
   - name: Webmail Service
     url: https://webmail.reinhart1010.id
 #   - name: roothouse-0
