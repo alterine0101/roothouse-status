@@ -55,12 +55,12 @@ sites:
     url: https://webmail.reinhart1010.id
 #   - name: roothouse-0
 #     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-0
-#   - name: roothouse-1
-#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
+  - name: roothouse-1
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1
 #   - name: roothouse-2
 #     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-2
-#   - name: roothouse-3
-#     url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3
+  - name: roothouse-3
+    url: https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
