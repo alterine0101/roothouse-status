@@ -13,7 +13,7 @@
     "time": 1408,
     "timeDay": 1079,
     "timeWeek": 1257,
-    "timeMonth": 1311,
+    "timeMonth": 1330,
     "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-02-02": 16,
@@ -39,7 +39,7 @@
     "time": 298,
     "timeDay": 230,
     "timeWeek": 174,
-    "timeMonth": 306,
+    "timeMonth": 313,
     "timeYear": 298,
     "dailyMinutesDown": {}
   },
@@ -57,7 +57,7 @@
     "time": 1151,
     "timeDay": 999,
     "timeWeek": 1233,
-    "timeMonth": 1142,
+    "timeMonth": 1145,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2023-02-03": 11
@@ -77,7 +77,7 @@
     "time": 998,
     "timeDay": 841,
     "timeWeek": 1000,
-    "timeMonth": 991,
+    "timeMonth": 992,
     "timeYear": 998,
     "dailyMinutesDown": {}
   },
@@ -95,7 +95,7 @@
     "time": 975,
     "timeDay": 927,
     "timeWeek": 1040,
-    "timeMonth": 1043,
+    "timeMonth": 1065,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2023-02-28": 19,
@@ -125,7 +125,7 @@
     "time": 243,
     "timeDay": 171,
     "timeWeek": 141,
-    "timeMonth": 314,
+    "timeMonth": 330,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-09-15": 69,
@@ -149,7 +149,7 @@
     "time": 418,
     "timeDay": 234,
     "timeWeek": 332,
-    "timeMonth": 355,
+    "timeMonth": 354,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2023-02-02": 115,
@@ -172,7 +172,7 @@
     "time": 307,
     "timeDay": 253,
     "timeWeek": 286,
-    "timeMonth": 410,
+    "timeMonth": 427,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -190,7 +190,7 @@
     "time": 314,
     "timeDay": 290,
     "timeWeek": 280,
-    "timeMonth": 430,
+    "timeMonth": 442,
     "timeYear": 314,
     "dailyMinutesDown": {}
   },
@@ -208,7 +208,7 @@
     "time": 372,
     "timeDay": 283,
     "timeWeek": 307,
-    "timeMonth": 318,
+    "timeMonth": 317,
     "timeYear": 372,
     "dailyMinutesDown": {}
   },
@@ -218,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.reinhart1010.id.ico",
     "slug": "file-sharing-service-files-reinhart1010-id",
     "status": "down",
-    "uptime": "57.37%",
+    "uptime": "57.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "57.37%",
+    "uptimeMonth": "7.96%",
+    "uptimeYear": "57.36%",
     "time": 480,
     "timeDay": 228,
     "timeWeek": 299,
-    "timeMonth": 314,
+    "timeMonth": 316,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2023-02-28": 1419,
+      "2023-03-01": 37,
+      "2023-02-28": 1440,
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
@@ -310,7 +311,7 @@
     "time": 135,
     "timeDay": 103,
     "timeWeek": 88,
-    "timeMonth": 127,
+    "timeMonth": 121,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -328,7 +329,7 @@
     "time": 1077,
     "timeDay": 924,
     "timeWeek": 962,
-    "timeMonth": 976,
+    "timeMonth": 996,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2023-02-23": 20,
@@ -378,7 +379,7 @@
     "time": 130,
     "timeDay": 139,
     "timeWeek": 114,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2022-10-05": 39
@@ -398,7 +399,7 @@
     "time": 162,
     "timeDay": 116,
     "timeWeek": 146,
-    "timeMonth": 137,
+    "timeMonth": 138,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -416,7 +417,7 @@
     "time": 194,
     "timeDay": 120,
     "timeWeek": 105,
-    "timeMonth": 130,
+    "timeMonth": 127,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2022-09-15": 69,
@@ -436,12 +437,12 @@
     "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.69%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.56%",
     "time": 810,
     "timeDay": 457,
     "timeWeek": 341,
-    "timeMonth": 750,
+    "timeMonth": 485,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2023-02-23": 100,
@@ -464,7 +465,7 @@
     "time": 113,
     "timeDay": 98,
     "timeWeek": 97,
-    "timeMonth": 130,
+    "timeMonth": 126,
     "timeYear": 113,
     "dailyMinutesDown": {}
   },
@@ -482,7 +483,7 @@
     "time": 225,
     "timeDay": 197,
     "timeWeek": 126,
-    "timeMonth": 127,
+    "timeMonth": 126,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2022-09-15": 69,
@@ -543,7 +544,7 @@
     "time": 177,
     "timeDay": 196,
     "timeWeek": 181,
-    "timeMonth": 175,
+    "timeMonth": 176,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -561,7 +562,7 @@
     "time": 820,
     "timeDay": 656,
     "timeWeek": 980,
-    "timeMonth": 792,
+    "timeMonth": 801,
     "timeYear": 820,
     "dailyMinutesDown": {
       "2023-02-23": 18,
@@ -582,7 +583,7 @@
     "time": 274,
     "timeDay": 249,
     "timeWeek": 249,
-    "timeMonth": 276,
+    "timeMonth": 272,
     "timeYear": 274,
     "dailyMinutesDown": {}
   },
@@ -600,7 +601,7 @@
     "time": 980,
     "timeDay": 779,
     "timeWeek": 1006,
-    "timeMonth": 965,
+    "timeMonth": 976,
     "timeYear": 980,
     "dailyMinutesDown": {
       "2022-09-22": 22
@@ -613,17 +614,18 @@
     "slug": "roothouse-1",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "23.34%",
-    "uptimeMonth": "81.23%",
+    "uptimeDay": "93.76%",
+    "uptimeWeek": "22.89%",
+    "uptimeMonth": "81.37%",
     "uptimeYear": "0.00%",
     "time": 276,
     "timeDay": 645,
-    "timeWeek": 661,
-    "timeMonth": 650,
+    "timeWeek": 659,
+    "timeMonth": 661,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2023-02-28": 33,
+      "2023-03-01": 37,
+      "2023-02-28": 53,
       "2023-02-27": 629,
       "2023-02-26": 1440,
       "2023-02-25": 1358,
@@ -963,14 +965,14 @@
     "slug": "roothouse-3",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "81.71%",
-    "uptimeWeek": "43.74%",
-    "uptimeMonth": "30.61%",
+    "uptimeDay": "85.73%",
+    "uptimeWeek": "44.31%",
+    "uptimeMonth": "36.27%",
     "uptimeYear": "0.00%",
     "time": 224,
     "timeDay": 207,
     "timeWeek": 212,
-    "timeMonth": 212,
+    "timeMonth": 214,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-02-28": 243,
@@ -1332,8 +1334,7 @@
       "2022-03-05": 369,
       "2022-03-04": 226,
       "2022-03-03": 88,
-      "2022-03-02": 66,
-      "2022-03-01": 160
+      "2022-03-02": 66
     }
   }
 ]
