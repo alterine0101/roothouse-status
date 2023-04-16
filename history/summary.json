@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aep.alterine0101.id.ico",
     "slug": "aep-mobile-staging-server",
     "status": "down",
-    "uptime": "59.49%",
+    "uptime": "59.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.33%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.49%",
+    "uptimeYear": "59.46%",
     "time": 1152,
     "timeDay": 953,
     "timeWeek": 1002,
     "timeMonth": 988,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2023-04-15": 1421,
+      "2023-04-16": 30,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1419,
       "2023-04-12": 1440,
@@ -262,11 +263,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.reinhart1010.id.ico",
     "slug": "file-sharing-service-files-reinhart1010-id",
     "status": "up",
-    "uptime": "44.35%",
+    "uptime": "44.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.40%",
-    "uptimeMonth": "2.33%",
-    "uptimeYear": "44.35%",
+    "uptimeWeek": "18.88%",
+    "uptimeMonth": "2.44%",
+    "uptimeYear": "44.36%",
     "time": 435,
     "timeDay": 271,
     "timeWeek": 331,
@@ -409,11 +410,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "gms-msj-admin-bot-caps-gms-msj-bot",
     "status": "up",
-    "uptime": "79.68%",
+    "uptime": "79.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "18.73%",
+    "uptimeWeek": "19.21%",
     "uptimeMonth": "48.70%",
-    "uptimeYear": "79.68%",
+    "uptimeYear": "79.69%",
     "time": 1067,
     "timeDay": 923,
     "timeWeek": 1001,
@@ -723,7 +724,7 @@
     "slug": "roothouse-1",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "28.54%",
+    "uptimeDay": "31.90%",
     "uptimeWeek": "86.57%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "0.00%",
@@ -1061,8 +1062,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   },
   {
@@ -1082,7 +1082,8 @@
     "timeMonth": 219,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-04-15": 1422,
+      "2023-04-16": 30,
+      "2023-04-15": 1440,
       "2023-04-14": 1440,
       "2023-04-13": 1418,
       "2023-04-12": 1440,
@@ -1441,8 +1442,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   }
 ]
