@@ -47,6 +47,8 @@ sites:
     url: https://maps.reinhart1010.id
   - name: Security Incidents Blog
     url: https://security-incidents.reinhart1010.id
+  - name: Shiftine Landing Page
+    url: https://shiftine.reinhart1010.id
   - name: Shortlink Service (share.reinhart1010.id)
     url: https://share.reinhart1010.id
   - name: Teropong Homepage
@@ -68,7 +70,7 @@ status-website:
   cname: status.reinhart1010.id
   # baseUrl: /your-repo-name
   logoUrl: https://reinhart1010.id/wp-content/uploads/2022/06/cropped-IMG_20220618_124332_108-1.png
-  name: Shift
+  name: Reinhart Previano K.
   introTitle: "Server status for **reinhart1010.id**, the **roothouse**, and beyond."
   introMessage: By the way, did you know that we also have [a dedicated website](https://binusmayadown.reinhart1010.id) to check if BINUS University's main servers are down, too?
   navbar:
