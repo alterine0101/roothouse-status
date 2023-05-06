@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/aep.alterine0101.id.ico",
     "slug": "aep-mobile-staging-server",
     "status": "down",
-    "uptime": "47.63%",
+    "uptime": "47.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.48%",
-    "uptimeYear": "47.63%",
+    "uptimeYear": "47.61%",
     "time": 1122,
     "timeDay": 885,
     "timeWeek": 949,
     "timeMonth": 1009,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2023-05-05": 1418,
+      "2023-05-06": 26,
+      "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
@@ -283,11 +284,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.reinhart1010.id.ico",
     "slug": "file-sharing-service-files-reinhart1010-id",
     "status": "up",
-    "uptime": "49.58%",
+    "uptime": "49.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.35%",
-    "uptimeYear": "49.58%",
+    "uptimeMonth": "71.46%",
+    "uptimeYear": "49.59%",
     "time": 423,
     "timeDay": 339,
     "timeWeek": 296,
@@ -433,7 +434,7 @@
     "uptime": "81.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.21%",
+    "uptimeMonth": "71.32%",
     "uptimeYear": "81.56%",
     "time": 1060,
     "timeDay": 961,
@@ -765,9 +766,9 @@
     "slug": "roothouse-1",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "85.61%",
-    "uptimeMonth": "88.57%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "85.14%",
+    "uptimeMonth": "88.46%",
     "uptimeYear": "0.00%",
     "time": 459,
     "timeDay": 591,
@@ -775,7 +776,8 @@
     "timeMonth": 728,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-05-05": 73,
+      "2023-05-06": 27,
+      "2023-05-05": 94,
       "2023-05-04": 25,
       "2023-05-03": 947,
       "2023-05-02": 406,
@@ -1096,8 +1098,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1410
+      "2022-05-07": 1440
     }
   },
   {
@@ -1117,7 +1118,8 @@
     "timeMonth": 216,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-05-05": 1419,
+      "2023-05-06": 27,
+      "2023-05-05": 1440,
       "2023-05-04": 1440,
       "2023-05-03": 1440,
       "2023-05-02": 1440,
@@ -1476,8 +1478,7 @@
       "2022-05-10": 1440,
       "2022-05-09": 1440,
       "2022-05-08": 1440,
-      "2022-05-07": 1440,
-      "2022-05-06": 1410
+      "2022-05-07": 1440
     }
   }
 ]
