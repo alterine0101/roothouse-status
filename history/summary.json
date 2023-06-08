@@ -63,7 +63,7 @@
     "timeMonth": 1011,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2023-06-08": 229,
+      "2023-06-08": 240,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -816,19 +816,19 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1",
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "roothouse-1",
-    "status": "up",
-    "uptime": "89.52%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "81.38%",
+    "status": "down",
+    "uptime": "89.53%",
+    "uptimeDay": "97.38%",
+    "uptimeWeek": "81.37%",
     "uptimeMonth": "67.79%",
-    "uptimeYear": "89.52%",
+    "uptimeYear": "89.53%",
     "time": 521,
-    "timeDay": 585,
-    "timeWeek": 617,
+    "timeDay": 601,
+    "timeWeek": 619,
     "timeMonth": 623,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-06-08": 11,
+      "2023-06-08": 12,
       "2023-06-07": 26,
       "2023-06-06": 397,
       "2023-06-05": 732,
@@ -878,8 +878,7 @@
       "2023-04-12": 23,
       "2023-04-08": 149,
       "2023-04-07": 11,
-      "2023-04-05": 12,
-      "2023-04-04": 11
+      "2023-04-05": 12
     }
   },
   {
@@ -899,7 +898,7 @@
     "timeMonth": 209,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-06-08": 229,
+      "2023-06-08": 240,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
