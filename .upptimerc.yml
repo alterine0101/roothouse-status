@@ -78,6 +78,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: reinhart1010.id
+      href: https://reinhart1010.id
+  themeUrl: https://reinhart1010.github.io/dotfiles/upptime.css
 
 workflowSchedule:
   graphs: "0 0 * * *"
