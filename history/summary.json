@@ -72,7 +72,8 @@
     "timeMonth": 955,
     "timeYear": 1039,
     "dailyMinutesDown": {
-      "2023-10-14": 1411,
+      "2023-10-15": 30,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -369,18 +370,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bots.reinhart1010.id.ico",
     "slug": "bots-misskey-instance",
     "status": "down",
-    "uptime": "67.57%",
+    "uptime": "67.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.42%",
+    "uptimeYear": "67.41%",
     "time": 419,
     "timeDay": 0,
     "timeWeek": 259,
     "timeMonth": 513,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-10-14": 1412,
+      "2023-10-15": 30,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -585,14 +587,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.25%",
+    "uptimeYear": "38.24%",
     "time": 418,
     "timeDay": 0,
     "timeWeek": 256,
     "timeMonth": 435,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2023-10-14": 1412,
+      "2023-10-15": 30,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -847,7 +850,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "gms-msj-admin-bot-caps-gms-msj-bot",
     "status": "down",
-    "uptime": "59.48%",
+    "uptime": "59.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -858,7 +861,8 @@
     "timeMonth": 1138,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-10-14": 1412,
+      "2023-10-15": 30,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -1014,8 +1018,7 @@
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -1288,18 +1291,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "roothouse-1",
     "status": "down",
-    "uptime": "77.64%",
+    "uptime": "77.63%",
     "uptimeDay": "24.53%",
     "uptimeWeek": "3.50%",
-    "uptimeMonth": "33.81%",
-    "uptimeYear": "77.64%",
+    "uptimeMonth": "33.68%",
+    "uptimeYear": "77.63%",
     "time": 584,
     "timeDay": 689,
     "timeWeek": 686,
     "timeMonth": 681,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-10-14": 1058,
+      "2023-10-15": 30,
+      "2023-10-14": 1086,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -1420,7 +1424,8 @@
     "timeMonth": 229,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2023-10-14": 1412,
+      "2023-10-15": 30,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -1779,8 +1784,7 @@
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   }
 ]
