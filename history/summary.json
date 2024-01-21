@@ -76,7 +76,7 @@
     "timeMonth": 1046,
     "timeYear": 1026,
     "dailyMinutesDown": {
-      "2024-01-21": 570,
+      "2024-01-21": 581,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -487,7 +487,7 @@
     "timeMonth": 591,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-01-21": 570,
+      "2024-01-21": 581,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -796,7 +796,7 @@
     "timeMonth": 443,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2024-01-21": 570,
+      "2024-01-21": 582,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -1125,7 +1125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "gms-msj-admin-bot-caps-gms-msj-bot",
     "status": "up",
-    "uptime": "61.77%",
+    "uptime": "61.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.88%",
@@ -1596,19 +1596,19 @@
     "url": "https://rhstatus-proxy.alterine0101.id/?deviceId=roothouse-1",
     "icon": "https://icons.duckduckgo.com/ip3/rhstatus-proxy.alterine0101.id.ico",
     "slug": "roothouse-1",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "45.74%",
-    "uptimeWeek": "90.42%",
+    "uptimeDay": "46.49%",
+    "uptimeWeek": "90.41%",
     "uptimeMonth": "83.91%",
     "uptimeYear": "98.53%",
     "time": 628,
-    "timeDay": 657,
-    "timeWeek": 675,
+    "timeDay": 656,
+    "timeWeek": 674,
     "timeMonth": 691,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2024-01-21": 336,
+      "2024-01-21": 337,
       "2024-01-20": 500,
       "2024-01-19": 48,
       "2024-01-18": 68,
@@ -1647,8 +1647,7 @@
       "2023-12-05": 11,
       "2023-12-02": 22,
       "2023-12-01": 11,
-      "2023-11-29": 24,
-      "2023-11-28": 11
+      "2023-11-29": 24
     }
   },
   {
@@ -1668,7 +1667,7 @@
     "timeMonth": 229,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2024-01-21": 571,
+      "2024-01-21": 582,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
