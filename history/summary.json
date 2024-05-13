@@ -80,7 +80,7 @@
     "timeMonth": 1017,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2024-05-13": 1050,
+      "2024-05-13": 1060,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -531,7 +531,7 @@
     "timeMonth": 421,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-05-13": 1051,
+      "2024-05-13": 1060,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -898,19 +898,19 @@
     "url": "https://doaprophetic.reinhart1010.id",
     "icon": "https://icons.duckduckgo.com/ip3/doaprophetic.reinhart1010.id.ico",
     "slug": "doa-prophetic-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 296,
     "timeDay": 292,
     "timeWeek": 291,
     "timeMonth": 294,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-05-13": 1,
+      "2024-05-13": 10,
       "2023-09-16": 14,
       "2023-05-19": 11
     }
@@ -952,7 +952,7 @@
     "timeMonth": 334,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-05-13": 1051,
+      "2024-05-13": 1060,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -1322,7 +1322,7 @@
     "timeMonth": 999,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2024-05-13": 1051,
+      "2024-05-13": 1060,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -1843,7 +1843,7 @@
     "timeMonth": 614,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2024-05-13": 1052,
+      "2024-05-13": 1061,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -1964,7 +1964,7 @@
     "timeMonth": 207,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-05-13": 1052,
+      "2024-05-13": 1061,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
